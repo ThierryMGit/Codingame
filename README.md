@@ -1,3 +1,3 @@
-# CodinGame
+# CodinGame Puzzles faciles
 
-Vous trouverez dans chaque branche, ma solution pour un puzzle ou combat de bots proposé sur [CodinGame](https://www.codingame.com/home)
+Mes solutions pour un puzzle facile proposé sur [CodinGame](https://www.codingame.com/training/easy)
