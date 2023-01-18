@@ -1,3 +1,3 @@
-# CodinGame
+# CodinGame Puzzles difficiles
 
-Vous trouverez dans chaque branche, mes solutions à plusieurs puzzles ou challenges proposés sur [CodinGame](https://www.codingame.com/home)
+Mes solutions pour un puzzle moyen proposé sur [CodinGame](https://www.codingame.com/training/hard)
