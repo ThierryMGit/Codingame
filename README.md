@@ -1,3 +1,3 @@
 # CodinGame Contests
 
-Mes soumissions aux challenges proposés sur [CodinGame](https://www.codingame.com/contests/finished)
+Mes solutions aux challenges proposés sur [CodinGame](https://www.codingame.com/contests/finished)
